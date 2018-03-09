@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1519971591 source:e:\graphics cloned projects\myprojects\sushante\main.cpp
+	"myWindow.h"
+
+1519977360 e:\graphics cloned projects\myprojects\sushante\mywindow.h
+	<windows.h>
+	<GL/glew.h>
+	<glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<cstring>
+	<iostream>
+	"Cube.h"
+	"Object3d.h"
+
+1519973982 e:\graphics cloned projects\myprojects\sushante\cube.h
+	<GL/glut.h>
+	"MatVec.h"
+	<vector>
+	<algorithm>
+	<math.h>
+	<iostream>
+
+1519828701 e:\graphics cloned projects\myprojects\sushante\matvec.h
+	<math.h>
+
+1519977092 e:\graphics cloned projects\myprojects\sushante\object3d.h
+	<vector>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+	<algorithm>
+	<iostream>
+	"transformation.h"
+
+1519828701 source:e:\graphics cloned projects\myprojects\sushante\matvec.cpp
+	"MatVec.h"
+
+1519975919 e:\graphics cloned projects\myprojects\sushante\transformation.h
+	"matVec.h"
+
+1519971591 source:e:\graphics_cloned_projects\myprojects\sushante\main.cpp
+	"myWindow.h"
+
+1520590092 e:\graphics_cloned_projects\myprojects\sushante\mywindow.h
+	<windows.h>
+	<GL/glew.h>
+	<glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<cstring>
+	<iostream>
+	"Cube.h"
+	"Object3d.h"
+	"MatVec.h"
+	"transformation.h"
+
+1519973982 e:\graphics_cloned_projects\myprojects\sushante\cube.h
+	<GL/glut.h>
+	"MatVec.h"
+	<vector>
+	<algorithm>
+	<math.h>
+	<iostream>
+
+1519828701 e:\graphics_cloned_projects\myprojects\sushante\matvec.h
+	<math.h>
+
+1520592756 e:\graphics_cloned_projects\myprojects\sushante\object3d.h
+	<vector>
+	<math.h>
+	<fstream>
+	<sstream>
+	<string>
+	<algorithm>
+	<iostream>
+	"transformation.h"
+
+1520586796 e:\graphics_cloned_projects\myprojects\sushante\transformation.h
+	"matVec.h"
+	<cmath>
+
+1519828701 source:e:\graphics_cloned_projects\myprojects\sushante\matvec.cpp
+	"MatVec.h"
+
